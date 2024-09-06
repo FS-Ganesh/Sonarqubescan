@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Amar-dev-code/Kharch-Khata-backend#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "mongodb": "^5.1.0"
+    "mongodb": "^6.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.21"
